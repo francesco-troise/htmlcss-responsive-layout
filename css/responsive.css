@@ -10,7 +10,13 @@
     .recipe-origin {
         display: inline;
 	
-}
+    }
+
+    .recipe-title{
+        font-size: 22px;
+    }
+
+    
 	
 }
 }
