@@ -6,6 +6,11 @@
 
     main {
 	padding: 35px;
+
+    .recipe-origin {
+        display: inline;
+	
+}
 	
 }
 }
