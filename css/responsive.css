@@ -1,11 +1,13 @@
 /* Soluzione qui */
 @media screen and (min-width: 768px){
+
     #topbar {
 	justify-content: start;
     }
 
     main {
 	padding: 35px;
+    }
 
     .recipe-origin {
         display: inline;
@@ -31,9 +33,18 @@
     .ads {
 	display: inline-block;
 	margin: 30px auto;
-}
+    }
 
     
 	
+
 }
+
+
+@media screen and (min-width: 992px){
+
+    .recipe-title{
+        font-size: 27px;
+    }
+
 }
