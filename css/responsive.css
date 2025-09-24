@@ -60,4 +60,8 @@
     .recipe-video{
         width: 70%;
     }
+
+    .social-networks .label {
+	display: inline;
+}
 }
