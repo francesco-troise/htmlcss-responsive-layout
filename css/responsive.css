@@ -1,9 +1,11 @@
 /* Soluzione qui */
 @media screen and (min-width: 768px){
 
-    #topbar {
-	justify-content: start;
+    #logo {
+        margin: auto;
     }
+    
+    
 
     main {
 	padding: 35px;
